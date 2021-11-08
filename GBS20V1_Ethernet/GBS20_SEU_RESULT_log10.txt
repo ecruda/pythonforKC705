@@ -1,0 +1,15 @@
+2021-11-05 13:16:38.701673 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:39.702319 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:40.703070 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:41.703355 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:42.704142 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:43.705000 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:44.705282 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:45.705349 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:46.705732 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:47.705794 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:48.706680 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:49.707608 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:50.708049 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:51.708647 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
+2021-11-05 13:16:52.709614 errorflag is 0x0 alinger is 0x1 total error status is 0x8768
